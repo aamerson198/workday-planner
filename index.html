@@ -27,6 +27,16 @@
       <h1 class="display-3">Work Day Scheduler</h1>
       <p class="lead">A simple calendar app for scheduling your work day</p>
       <p id="currentDay" class="lead"></p>
+      <div class="btn-group btn-group-toggle" data-toggle="buttons"></div>
+      <div class="btn-group btn-group-toggle" data-toggle="buttons">
+        <label class="btn btn-light active" id="12hour">
+          <input type="radio" name="options" autocomplete="off" checked /> AM /
+          PM
+        </label>
+        <label class="btn btn-light" id="24hrs">
+          <input type="radio" name="options" autocomplete="off" /> 24 Hours
+        </label>
+      </div>
     </header>
     <div class="container">
       <!-- Timeblocks go here -->
