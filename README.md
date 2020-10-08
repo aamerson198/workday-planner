@@ -8,8 +8,8 @@ The planner also has the ability to switch to a 24 hour schedule should the user
 
 A screenshot of the JS code for this site:
 
-![Image of] (https://github.com/aamerson198/workday-planner/blob/main/Images/Screen%20Shot%202020-10-07%20at%203.35.00%20PM.png)
+![Image of](https://github.com/aamerson198/workday-planner/blob/main/Images/Screen%20Shot%202020-10-07%20at%203.35.00%20PM.png)
 
 A screenshot of the published site:
 
-![Image of] (https://github.com/aamerson198/workday-planner/blob/main/Images/Screen%20Shot%202020-10-07%20at%203.35.35%20PM.png)
+![Image of](https://github.com/aamerson198/workday-planner/blob/main/Images/Screen%20Shot%202020-10-07%20at%203.35.35%20PM.png)
